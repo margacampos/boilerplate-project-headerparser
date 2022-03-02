@@ -15,3 +15,4 @@ To complete the challenges just click on share and copy the live site URL and us
 
 ## Help
 If you need help solving the challenges remember to go to the [freecodecamp forum](https://forum.freecodecamp.org/).
+
